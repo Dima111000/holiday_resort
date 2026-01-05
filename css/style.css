@@ -1368,7 +1368,15 @@ h6 {
     text-decoration: underline;
   }
 
+  .menu__link:hover {
+    text-decoration: underline;
+  }
+
   .attractions__link:hover {
     border-bottom: 0.0625rem solid currentColor;
+  }
+
+  .item-contacts__link:hover {
+    text-decoration: underline;
   }
 }
